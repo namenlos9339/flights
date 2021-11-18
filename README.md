@@ -1,6 +1,8 @@
 # flights
 Flight data experimentation
 
-Collect airport data
-Collect flight data
-Join geographic coordinates to airport codes
+<ul>
+    <li>Collect airport data</li>
+    <li>Collect flight data</li>
+    <li>Join geographic coordinates to airport codes</li>
+</ul>
